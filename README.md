@@ -3,4 +3,4 @@ Just checking things work
 
 And now, this!
 
-Just another change (change in branch 1)
+Just another change (fixed conflict, nice!!!)
